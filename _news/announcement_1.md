@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-a paper has been accepted to publish in Discover Artificial Intelligence (Q1)
+A paper has been accepted to publish in Discover Artificial Intelligence (Q1)
