@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vunam128.github.io/namvu12.github.io/sitemap.xml
+Sitemap: https://vunam128.github.io/vunam128.github.io/sitemap.xml
