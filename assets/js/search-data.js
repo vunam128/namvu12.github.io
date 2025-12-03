@@ -44,11 +44,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-a-post-with-images",
+        },{id: "post-ts-vũ-hoài-nam-phát-biểu-tại-sự-kiện-của-bộ-khoa-học-công-nghệ",
         
-          title: "a post with images",
+          title: "TS. Vũ Hoài Nam phát biểu tại sự kiện của Bộ Khoa học...",
         
-        description: "this is what included images could look like",
+        description: "TS. Vũ Hoài Nam – Giảng viên khoa AI PTIT phát biểu tại Lễ kỷ niệm 80 năm ngành Bưu chính Viễn thông, 66 năm ngành Khoa học &amp; Công nghệ và Đại hội Thi đua yêu nước lần thứ I",
         section: "Posts",
         handler: () => {
           
