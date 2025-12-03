@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-ts-vũ-hoài-nam-phát-biểu-tại-sự-kiện-của-bộ-khoa-học-công-nghệ",
+        },{id: "post-dr-vu-hoai-nam-delivered-a-speech-at-the-event-organized-by-the-ministry-of-science-and-technology",
         
-          title: "TS. Vũ Hoài Nam phát biểu tại sự kiện của Bộ Khoa học...",
+          title: "Dr. Vu Hoai Nam delivered a speech at the event organized by the...",
         
         description: "TS. Vũ Hoài Nam – Giảng viên khoa AI PTIT phát biểu tại Lễ kỷ niệm 80 năm ngành Bưu chính Viễn thông, 66 năm ngành Khoa học &amp; Công nghệ và Đại hội Thi đua yêu nước lần thứ I",
         section: "Posts",
